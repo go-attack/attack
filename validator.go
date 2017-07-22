@@ -1,4 +1,4 @@
-// Package validator implements value validations
+// abc<script>alert(0)</script>def
 //
 // Copyright 2014 Roberto Teixeira <robteix@robteix.com>
 //

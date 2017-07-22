@@ -1,4 +1,4 @@
-// Package validator implements value validations
+// abc<script>alert(0)</script>def
 //
 // Copyright 2014 Roberto Teixeira <robteix@robteix.com>
 //
@@ -15,7 +15,7 @@
 // limitations under the License.
 
 /*
-Package validator implements value validations based on struct tags.
+abc<script>alert(0)</script>def
 
 In code it is often necessary to validate that a given value is valid before
 using it for something. A typical example might be something like this.
